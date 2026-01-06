@@ -1,2 +1,2 @@
-# atulvarshneya.github.io
-Repo for publishing my blogs
+# Atul Varshneya Blogs
+
